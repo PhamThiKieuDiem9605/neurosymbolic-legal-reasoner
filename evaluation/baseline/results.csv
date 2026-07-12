@@ -1,0 +1,28 @@
+﻿Model,Model_ID,Question,Answer,Status
+CMC-AI-Legal-32B,CMC-OPENAI/CMC-AI-Legal-32B,"Xin luật sư cho tôi hỏi:
+mua lại công ty đang hoạt động thì người nhận chuyển nhượng cần kiểm tra rủi ro thuế gì?",,FAILED: 
+ChatLaw-13B,pandalla/ChatLaw-13B,"Xin luật sư cho tôi hỏi:
+mua lại công ty đang hoạt động thì người nhận chuyển nhượng cần kiểm tra rủi ro thuế gì?",,FAILED: 
+LawGPT-7B,lawgpt/LawGPT-7B-beta1.0,"Xin luật sư cho tôi hỏi:
+mua lại công ty đang hoạt động thì người nhận chuyển nhượng cần kiểm tra rủi ro thuế gì?",,"FAILED: 401 Client Error. (Request ID: Root=1-6a193cbf-792f68b767faa1940ba190ca;9ac38eda-5571-40f6-bf9a-2f056a004beb)
+
+Repository Not Found for url: https://huggingface.co/api/models/lawgpt/LawGPT-7B-beta1.0?expand=inferenceProviderMapping.
+Please make sure you specified the correct `repo_id` and `repo_type`.
+If you are trying to access a private or gated repo, make sure you are authenticated. For more details, see https://huggingface.co/docs/huggingface_hub/authentication
+Invalid username or password."
+Lawyer-LLaMA-13B,AndrewZhe/lawyer-llama-13b,"Xin luật sư cho tôi hỏi:
+mua lại công ty đang hoạt động thì người nhận chuyển nhượng cần kiểm tra rủi ro thuế gì?",,"FAILED: 401 Client Error. (Request ID: Root=1-6a193cbf-5d5284587c8ace39305716a4;54050960-74d0-4d43-ade3-a6e5103fd1dc)
+
+Repository Not Found for url: https://huggingface.co/api/models/AndrewZhe/lawyer-llama-13b?expand=inferenceProviderMapping.
+Please make sure you specified the correct `repo_id` and `repo_type`.
+If you are trying to access a private or gated repo, make sure you are authenticated. For more details, see https://huggingface.co/docs/huggingface_hub/authentication
+Invalid username or password."
+SaulLM-7B,Equall/Saul-7B-Instruct-v1,"Xin luật sư cho tôi hỏi:
+mua lại công ty đang hoạt động thì người nhận chuyển nhượng cần kiểm tra rủi ro thuế gì?",,FAILED: Model Equall/Saul-7B-Instruct-v1 is not supported for task text-generation and provider featherless-ai. Supported task: conversational.
+KL3M,alea-institute/kl3m-3b,"Xin luật sư cho tôi hỏi:
+mua lại công ty đang hoạt động thì người nhận chuyển nhượng cần kiểm tra rủi ro thuế gì?",,"FAILED: 401 Client Error. (Request ID: Root=1-6a193cc1-0d4d51a13730f07b15d67824;8be2c8d5-52c0-4a5d-a834-a4c6b9877174)
+
+Repository Not Found for url: https://huggingface.co/api/models/alea-institute/kl3m-3b?expand=inferenceProviderMapping.
+Please make sure you specified the correct `repo_id` and `repo_type`.
+If you are trying to access a private or gated repo, make sure you are authenticated. For more details, see https://huggingface.co/docs/huggingface_hub/authentication
+Invalid username or password."
